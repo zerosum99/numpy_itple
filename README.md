@@ -30,3 +30,10 @@
 [01장 참고자료](https://www.notion.so/01-7c512fd101d243f38a3dde2a85e55b28)
 
 [02장 참고자료](https://www.notion.so/02-5d2ef9ba6179408ea10974a154d64986)
+
+[03장 참고자료](https://www.notion.so/03-111bc517c4934749b317af561e3be3d6)
+
+[04장/05장 참고자료](https://www.notion.so/04-05-1900ac896a784e65b24e995a4659a501)
+
+[06장/07장 참고자료](https://www.notion.so/06-07-0a884f59afd2426ca1a67a71b675f385)
+
