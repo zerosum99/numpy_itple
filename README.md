@@ -24,16 +24,23 @@
 
 [IT Artist : 네이버 블로그](https://blog.naver.com/pcmola/222026183913)
 
-
-- 참고자료
-
 [01장 참고자료](https://www.notion.so/01-7c512fd101d243f38a3dde2a85e55b28)
 
 [02장 참고자료](https://www.notion.so/02-5d2ef9ba6179408ea10974a154d64986)
 
 [03장 참고자료](https://www.notion.so/03-111bc517c4934749b317af561e3be3d6)
 
-[04장/05장 참고자료](https://www.notion.so/04-05-1900ac896a784e65b24e995a4659a501)
+[04장, 05장 참고자료](https://www.notion.so/04-05-1900ac896a784e65b24e995a4659a501)
 
-[06장/07장 참고자료](https://www.notion.so/06-07-0a884f59afd2426ca1a67a71b675f385)
+[06장, 07장 참고자료](https://www.notion.so/06-07-0a884f59afd2426ca1a67a71b675f385)
+
+[08장 참고자료](https://www.notion.so/08-902fbbdeaaba46b59413b794474d4f97)
+
+[09장 참고자료](https://www.notion.so/09-1cbfb2bf0b8f4804b938554c94d6ad5b)
+
+[10장 참고자료](https://www.notion.so/10-5b893826f0a04217924bc75a5f8b7602)
+
+[11장, 12장 참고자료](https://www.notion.so/11-12-6e1b74543d1b4c15ae3deea2945cf04b)
+
+[13장 참고자료](https://www.notion.so/13-ead489627f6045dda3139810859a1311)
 
