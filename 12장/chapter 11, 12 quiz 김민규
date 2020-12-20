@@ -1,0 +1,17 @@
+기본적으로 그것은 조각난 배열 안에 있는 원소들의 합을 돌려주는 것
+
+array = np.arange(10)
+indices = np.array([1,3,4,5])
+output = numpy.add.reduceat(array,indices)  
+print(output)
+
+output=[ 3 3 4 35]
+
+
+
+print("Step1 : ", np.add.reduce(array[1:3]))
+print("Step2 : ", np.add.reduce(array[3:4]))
+print("Step3 : ", np.add.reduce(array[4:5]))
+print("Step4 : ", np.add.reduce(array[5:]))
+
+.reduce()를 배열을 통해 반복적으로 적용하고 각 단계의 결과를 목록에 추가하고 결과를 표시
