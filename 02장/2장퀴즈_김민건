@@ -1,0 +1,20 @@
+1.
+numpy.linspace(start, end, num=개수, endpoint=True, retstep=False, dtype=자료형)
+
+import numpy as np
+
+a = np.logspace(0, 10, num=5, endpoint=True, base=10.0)
+b = np.logspace(1, 10, num=5, endpoint=True, base=5.0)
+c = np.logspace(0, 10, num=5, endpoint=False, base=1.0)
+
+print(a) //[1.00000000e+00 3.16227766e+02 1.00000000e+05 3.16227766e+07 1.00000000e+10]
+print(b) //[5.00000000e+00 1.86918598e+02 6.98771243e+03 2.61226682e+05 9.76562500e+06]
+print(c) //[1. 1. 1. 1. 1.]
+
+2.
+ 0행렬, 정사각행렬, 대각행렬, 삼각행렬(하,상), 단위행렬(항등행렬), 스칼라행렬,
+ 계수행렬, 첨가행렬, 전치행렬, 대칭행렬(반대칭행렬), 역행렬, 직교행렬, 복소수행렬,
+ 가역행렬, 특이행렬, 치환행렬, 블록행렬, 부울행렬
+
+3.
+선형연립방정식을 행렬로 나타낸 것
